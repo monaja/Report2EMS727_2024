@@ -7,4 +7,7 @@ Running the on MATLAB SIMULINK
   + C1 = 1/(w1*R1)
   + f2 = 10
   + C2 = 1/(w2*R2)
-  + 
+
+Scope for the system 
+
+<img width="550" alt="image" src="https://github.com/user-attachments/assets/4f195292-b589-4e79-aff9-22eb3a3452c6" />
